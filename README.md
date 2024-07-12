@@ -19,6 +19,8 @@ Ao completar esta categoria, terá desenvolvido competências em:
   * Ferramentas e aplicativos de produtividade;
   * Equilíbrio entre vida pessoal e profissional.
 
+* **Comunicação Eficaz:** Desenvolvimento de habilidades de comunicação para interações interpessoais e profissionais.
+
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
 <!-- Informações -->
