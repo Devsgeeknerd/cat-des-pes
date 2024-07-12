@@ -70,6 +70,7 @@ Essas habilidades são fundamentais para alcançar seu pleno potencial e ter suc
 >   * Envolva-se em grupos e comunidades de desenvolvimento pessoal para trocar experiência e aprender com outros.
 >
 > * Mentoria e Coaching:
+>   * Considere buscar mentores ou coaches para orientação e apoio em sua jornada de  desenvolvimento pessoal.
 
 <!-- Informações -->
 ## &#8505; Informações
