@@ -61,6 +61,7 @@ Essas habilidades são fundamentais para alcançar seu pleno potencial e ter suc
 > **Dicas de Estudo:**
 >
 > * Prática Contínua:
+>   * Aplique as técnicas e estratégias de desenvolvimento pessoal em sua vida diária.
 
 <!-- Informações -->
 ## &#8505; Informações
