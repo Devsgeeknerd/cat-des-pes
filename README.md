@@ -15,6 +15,7 @@ Ao completar esta categoria, terá desenvolvido competências em:
 
 * **Gestão do Tempo e Produtividade:** Técnicas para otimizar o uso do tempo e aumentar a produtividade.
   * Priorização e planejamento de tarefas;
+  * Técnicas de gerenciamento de tempo;
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
