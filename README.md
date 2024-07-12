@@ -49,6 +49,8 @@ Ao completar esta categoria, terá desenvolvido competências em:
   * Importância do sono e da alimentação saudável;
   * Atividade física e seus benefícios.
 
+* **Habilidades de Negociação:**
+
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
 <!-- Informações -->
