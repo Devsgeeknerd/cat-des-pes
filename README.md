@@ -53,6 +53,7 @@ Ao completar esta categoria, terá desenvolvido competências em:
   * Princípios da negociação;
   * Estratégias e táticas de negociação;
   * Negociação em situação de conflito;
+  * Comunicação assertiva e persuasão.
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
