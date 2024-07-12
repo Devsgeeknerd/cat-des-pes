@@ -29,6 +29,7 @@ Ao completar esta categoria, terá desenvolvido competências em:
   * Estilos e teorias de liderança;
   * Desenvolvimento de habilidades de liderança;
   * Gestão de equipes e resolução de conflitos;
+  * Tomada de decisão e delegação.
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
