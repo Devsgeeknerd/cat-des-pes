@@ -43,6 +43,8 @@ Ao completar esta categoria, terá desenvolvido competências em:
   * Networking e construção de relacionamentos profissionais;
   * Preparação para entrevistas e negociação salarial.
 
+* **Saúde Mental e Bem-Estar:** Promoção do bem-estar e físico para uma vida equilibrada e saudável.
+
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
 <!-- Informações -->
