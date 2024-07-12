@@ -34,6 +34,7 @@ Ao completar esta categoria, terá desenvolvido competências em:
 * **Criatividade e Inovação:** Fomento da criatividade e inovação para resolução de problemas e desenvolvimento de novas ideias.
   * Técnicas de brainstorming e geração de ideias;
   * Design thinking;
+  * Ferramentas para criatividade;
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
