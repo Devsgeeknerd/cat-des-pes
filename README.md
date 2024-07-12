@@ -46,6 +46,7 @@ Ao completar esta categoria, terá desenvolvido competências em:
 * **Saúde Mental e Bem-Estar:** Promoção do bem-estar e físico para uma vida equilibrada e saudável.
   * Técnicas de mindfulness e meditação;
   * Gerenciamento do estresse;
+  * Importância do sono e da alimentação saudável;
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
