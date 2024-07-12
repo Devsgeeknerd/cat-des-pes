@@ -31,6 +31,8 @@ Ao completar esta categoria, terá desenvolvido competências em:
   * Gestão de equipes e resolução de conflitos;
   * Tomada de decisão e delegação.
 
+* **Criatividade e Inovação:** Fomento da criatividade e inovação para resolução de problemas e desenvolvimento de novas ideias.
+
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
 <!-- Informações -->
