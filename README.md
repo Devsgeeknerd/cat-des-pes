@@ -14,6 +14,7 @@ Ao completar esta categoria, terá desenvolvido competências em:
   * Técnicas para aumentar a inteligência emocional.
 
 * **Gestão do Tempo e Produtividade:** Técnicas para otimizar o uso do tempo e aumentar a produtividade.
+  * Priorização e planejamento de tarefas;
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
