@@ -65,6 +65,8 @@ Essas habilidades são fundamentais para alcançar seu pleno potencial e ter suc
 >
 > * Autoavaliação Regular:
 >   * Reflita sobre seus progressos e identifique áreas para melhoria contínua.
+>
+> * Participação em Comunidade:
 
 <!-- Informações -->
 ## &#8505; Informações
