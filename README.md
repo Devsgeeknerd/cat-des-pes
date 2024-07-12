@@ -17,6 +17,7 @@ Ao completar esta categoria, terá desenvolvido competências em:
   * Priorização e planejamento de tarefas;
   * Técnicas de gerenciamento de tempo;
   * Ferramentas e aplicativos de produtividade;
+  * Equilíbrio entre vida pessoal e profissional.
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
