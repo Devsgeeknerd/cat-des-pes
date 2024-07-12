@@ -35,6 +35,7 @@ Ao completar esta categoria, terá desenvolvido competências em:
   * Técnicas de brainstorming e geração de ideias;
   * Design thinking;
   * Ferramentas para criatividade;
+  * Aplicação da criatividade em contextos profissionais.
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
