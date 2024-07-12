@@ -52,6 +52,7 @@ Ao completar esta categoria, terá desenvolvido competências em:
 * **Habilidades de Negociação:** Técnicas para negociar de forma eficaz em contextos profissionais e pessoais.
   * Princípios da negociação;
   * Estratégias e táticas de negociação;
+  * Negociação em situação de conflito;
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
