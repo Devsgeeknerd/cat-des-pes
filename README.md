@@ -25,6 +25,8 @@ Ao completar esta categoria, terá desenvolvido competências em:
   * Técnicas de escuta ativa;
   * Comunicação em situação difíceis.
 
+* **Liderança e Gestão:** Desenvolvimento de habilidades de liderança e gestão para influenciar e motivar equipes.
+
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
 <!-- Informações -->
