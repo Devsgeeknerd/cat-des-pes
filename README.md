@@ -3,6 +3,12 @@
 
 ***Conteúdo da Categoria:***
 
+A categoria Desenvolvimento Pessoal é essencial para aqueles que buscam aprimorar suas habilidades interpessoais e profissionais.
+
+Ao completar esta categoria, terá desenvolvido competências em:
+
+Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
+
 <!-- Informações -->
 ## &#8505; Informações
 
