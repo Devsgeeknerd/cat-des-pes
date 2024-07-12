@@ -62,6 +62,8 @@ Essas habilidades são fundamentais para alcançar seu pleno potencial e ter suc
 >
 > * Prática Contínua:
 >   * Aplique as técnicas e estratégias de desenvolvimento pessoal em sua vida diária.
+>
+> * Autoavaliação Regular:
 
 <!-- Informações -->
 ## &#8505; Informações
