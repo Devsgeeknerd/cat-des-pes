@@ -57,6 +57,8 @@ Ao completar esta categoria, terá desenvolvido competências em:
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
+> [!IMPORTANT]\
+
 <!-- Informações -->
 ## &#8505; Informações
 
