@@ -47,6 +47,7 @@ Ao completar esta categoria, terá desenvolvido competências em:
   * Técnicas de mindfulness e meditação;
   * Gerenciamento do estresse;
   * Importância do sono e da alimentação saudável;
+  * Atividade física e seus benefícios.
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
