@@ -49,7 +49,7 @@ Ao completar esta categoria, terá desenvolvido competências em:
   * Importância do sono e da alimentação saudável;
   * Atividade física e seus benefícios.
 
-* **Habilidades de Negociação:**
+* **Habilidades de Negociação:** Técnicas para negociar de forma eficaz em contextos profissionais e pessoais.
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
