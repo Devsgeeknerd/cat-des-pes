@@ -23,6 +23,7 @@ Ao completar esta categoria, terá desenvolvido competências em:
   * Princípios da comunicação eficaz;
   * Comunicação verbal e não-verbal;
   * Técnicas de escuta ativa;
+  * Comunicação em situação difíceis.
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
