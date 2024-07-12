@@ -59,6 +59,8 @@ Essas habilidades são fundamentais para alcançar seu pleno potencial e ter suc
 
 > [!IMPORTANT]\
 > **Dicas de Estudo:**
+>
+> * Prática Contínua:
 
 <!-- Informações -->
 ## &#8505; Informações
