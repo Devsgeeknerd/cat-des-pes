@@ -37,6 +37,8 @@ Ao completar esta categoria, terá desenvolvido competências em:
   * Ferramentas para criatividade;
   * Aplicação da criatividade em contextos profissionais.
 
+* **Desenvolvimento de Carreira:** Planejamento e gestão da trajetória profissional para alcançar objetivos de carreira.
+
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
 <!-- Informações -->
