@@ -41,6 +41,7 @@ Ao completar esta categoria, terá desenvolvido competências em:
   * Definição de metas de carreira;
   * Desenvolvimento de habilidades e competências;
   * Networking e construção de relacionamentos profissionais;
+  * Preparação para entrevistas e negociação salarial.
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
