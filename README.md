@@ -10,6 +10,7 @@ Ao completar esta categoria, terá desenvolvido competências em:
 * **Autoconhecimento e inteligência Emocional:** Compreensão das próprias emoções e desenvolvimento da capacidade de gerenciá-las de forma eficaz.
   * Fundamentos da inteligência emocional;
   * Autoconsciência e autogestão;
+  * Empatia e habilidades sociais;
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
