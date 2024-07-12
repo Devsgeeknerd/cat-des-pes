@@ -67,6 +67,7 @@ Essas habilidades são fundamentais para alcançar seu pleno potencial e ter suc
 >   * Reflita sobre seus progressos e identifique áreas para melhoria contínua.
 >
 > * Participação em Comunidade:
+>   * Envolva-se em grupos e comunidades de desenvolvimento pessoal para trocar experiência e aprender com outros.
 
 <!-- Informações -->
 ## &#8505; Informações
