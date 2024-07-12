@@ -21,6 +21,7 @@ Ao completar esta categoria, terá desenvolvido competências em:
 
 * **Comunicação Eficaz:** Desenvolvimento de habilidades de comunicação para interações interpessoais e profissionais.
   * Princípios da comunicação eficaz;
+  * Comunicação verbal e não-verbal;
 
 Essas habilidades são fundamentais para alcançar seu pleno potencial e ter sucesso tanto na vida pessoal quanto na carreira.
 
